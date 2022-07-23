@@ -31,3 +31,15 @@ Nesta aula, o objetivo foi transformar as imagens dos filmes consumidos na API d
 - Criar diretório de saída das imagens.
 - Tratar a url das imagens retornadas pela API do IMDB para pegar uma imagem maior ao invés de thumbnails.
 - Fazer com que a legenda da figurinha seja personalizado de acordo com as classificações do IMDB.
+
+## Aula 03
+
+Nesta aula, o objetivo foi refatorar o código aplicando alguns dos principais conceitos da Orientação a Objetos `Encapsulamento e Polimorfismo` separando as reponsabilidades, tornando a aplicação mais flexível e legível. 
+
+![Resultado Aula 03](https://user-images.githubusercontent.com/72167489/180619032-65baaa27-d19e-45b8-846e-22eceec099b3.png)
+
+### Desafios concluidos nesta aula:
+
+- Criar as próprias exceções.
+- Usar recursos do Java 8 e posterior, como Streams e Lambdas, para mapear uma lista em uma outra.
+- Criar um Enum que une, como configurações, a URL da API e o extrator utilizado.
